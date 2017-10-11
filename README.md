@@ -14,5 +14,3 @@
  **3**.fresh_tomatoes /  This file that contains HTMl and Css for the site .
 # Running the App
 **Please double click on media**
-  
- 
