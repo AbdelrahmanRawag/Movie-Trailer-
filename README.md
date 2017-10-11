@@ -1,11 +1,8 @@
 # Project : Movie Trailer
   
   # Table of Contents
- **1**.Overview    
- **2**.Content
- **1**.Overview   
- **2**.Content
-  
+ **1**.Overview  
+ **2**.Content  
   
   # Overview
   The project is talking about website showing the movies trailers and show the movies photos .
