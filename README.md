@@ -13,4 +13,5 @@
  **2**.media2  / This is the file that contains the class and show trailer function .  
  **3**.fresh_tomatoes /  This file that contains HTMl and Css for the site .
 # Running the App
-**Please double click on media**
+To start the application run media.py by double click it  
+open it in python IDLE and run it
